@@ -1,0 +1,38 @@
+# Smart Interview Evaluator
+
+## Project Description
+
+Smart Interview Evaluator is a Python-based interview assessment system that helps candidates practice Python interview questions and automatically evaluates their performance.
+
+The system allows candidates to register, attend a Python MCQ test, receive their score and percentage, and store their results using an SQLite database.
+
+## Features
+
+- Candidate registration
+- Email validation
+- Python interview MCQ test
+- Automatic answer evaluation
+- Score calculation
+- Percentage calculation
+- Candidate data storage
+- Test result storage
+- SQLite database integration
+- 20 Python interview questions
+
+## Technologies Used
+
+- Python
+- SQLite
+- VS Code
+- Git & GitHub
+
+## Project Structure
+
+```text
+Smart-Interview-Evaluator/
+│
+├── main.py
+├── database.py
+├── questions.py
+├── README.md
+└── .gitignore
